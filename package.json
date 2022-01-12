@@ -30,6 +30,6 @@
   },
 
   "dependencies": {
-    "markdown-it": "^8.0.1"
+    "markdown-it": "^12.3.2"
   }
 }
